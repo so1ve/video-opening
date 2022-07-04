@@ -1,0 +1,19 @@
+{
+  "name": "video-opening",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@so1ve/eslint-config": "^0.22.0",
+    "eslint": "^8.19.0",
+    "typescript": "^4.5.4",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "typeit": "8.6.1-alpha.0"
+  }
+}

@@ -1,0 +1,36 @@
+#app {
+  font-family: FiraCode NF, FiraCode;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  background-color: #020202;
+  color: #cccccc;
+}
+
+#outer {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#inner {
+  width: 250px;
+  height: 100px;
+}
+
+.gray {
+  color: #444444;
+}
+
+.green {
+  color: #4aa15d;
+}
+
+.red {
+  color: #c84334;
+}
