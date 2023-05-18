@@ -3,12 +3,12 @@ lockfileVersion: 5.4
 specifiers:
   '@so1ve/eslint-config': ^0.22.0
   eslint: ^8.19.0
-  typeit: 8.6.1-alpha.0
+  typeit: 8.7.1
   typescript: ^4.5.4
   vite: ^2.9.9
 
 dependencies:
-  typeit: 8.6.1-alpha.0
+  typeit: 8.7.1
 
 devDependencies:
   '@so1ve/eslint-config': 0.22.0_4x5o4skxv6sl53vpwefgt23khm
@@ -2379,8 +2379,8 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
-  /typeit/8.6.1-alpha.0:
-    resolution: {integrity: sha512-kX3sQDHdM3LCtw0T82hdv1bYsOAUixqLyrs0gmqDZUcbzeSEhZd2sZ+Mkrdpf4a9yr214c/9iemqWWdtMWTVWA==}
+  /typeit/8.7.1:
+    resolution: {integrity: sha512-Bx/O4NMz10NWh9FWYtVwV4XwGHF9UDJfpCZPJRtw2/oUcahFAStU8J0t19aroPfTV6s1UlS5ICoqilOqmEnh2Q==}
     requiresBuild: true
     dev: false
 
