@@ -14,6 +14,6 @@
     "vite": "^2.9.9"
   },
   "dependencies": {
-    "typeit": "8.7.1"
+    "typeit": "8.8.3"
   }
 }
